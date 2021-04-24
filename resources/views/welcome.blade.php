@@ -407,7 +407,7 @@
     <div class="container">
         <div class="row mt-8">
                 <div class="col-sm-2 col-md-2">
-                    <img src="{{asset('game.jpeg') }}" alt="" class="img-rounded img-responsive" />
+                    <img src="{{asset('ooo.jpeg') }}" alt="" class="img-rounded img-responsive" />
                 </div>
                 <div class="col-sm-4 col-md-4">
                     <blockquote>
