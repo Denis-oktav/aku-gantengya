@@ -1,4 +1,4 @@
-[Link Heroku](https://aku-gantengya.herokuapp.com/) klik
+[Link Heroku](https://aku-gantengya.herokuapp.com/) <-- klik
 
 
 
